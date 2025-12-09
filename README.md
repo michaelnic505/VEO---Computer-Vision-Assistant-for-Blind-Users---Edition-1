@@ -1,3 +1,16 @@
+# VEO Vision
+# News / Updates
+
+We are excited to announce that new documentation and resources for VEO Vision will be published soon. This includes user guides, installation instructions, and examples to help you explore the full capabilities of the app.
+
+Stay tuned for updates as we continue improving the project and adding more content to support users.
+
+About VEO Vision
+
+VEO Vision is part of our suite of accessibility-focused projects under Stardust DevEngine. The app is designed to provide innovative and practical solutions for users with visual impairments, enhancing their experience and independence through technology.
+
+
+
 # VEO - Computer Vision Assistant
 This branch contains **partial code** for demonstration purposes.
 The full project will be uploaded in stages.
